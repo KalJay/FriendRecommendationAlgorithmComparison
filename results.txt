@@ -1,0 +1,90 @@
+Performed Adamic Adar Link Prediction with a threshold value of 2.
+Analysed 173090033 possible connections. 173021798 correct predictions and 68235 incorrect predictions.
+Accuracy Rate of 99.96057831937671%. Run time of ? seconds.
+
+Performed Jaccard Coefficient Link Prediction with a threshold value of 0.2.
+Analysed 173090033 possible connections. 173058335 correct predictions and 31698 incorrect predictions.
+Accuracy Rate of 99.98168698714154%. Run time of 7293.932543754577.
+
+Performed Within Inter Cluster Link Prediction with a threshold value of 1.
+Analysed 173090033 possible connections. 173070521 correct predictions and 19512 incorrect predictions.
+Accuracy Rate of 99.98872725386794%. Run time of 7293.587966442108.
+
+Performed Adamic Adar Link Prediction with a threshold value of 3.
+Analysed 173090033 possible connections. 173055740 correct predictions and 34293 incorrect predictions.
+Accuracy Rate of 99.98018776736845%. Run time of 5301.1765768527985.
+
+Performed Jaccard Coefficient Link Prediction with a threshold value of 0.4.
+Analysed 173090033 possible connections. 173071179 correct predictions and 18854 incorrect predictions.
+Accuracy Rate of 99.98910740285086%. Run time of 6190.283895254135.
+
+Performed Within Inter Cluster Link Prediction with a threshold value of 2.
+Analysed 173090033 possible connections. 173070521 correct predictions and 19512 incorrect predictions.
+Accuracy Rate of 99.98872725386794%. Run time of 6182.430782794952.
+
+Performed Adamic Adar Link Prediction with a threshold value of 1.
+Analysed 173090033 possible connections. 172853400 correct predictions and 236633 incorrect predictions.
+Accuracy Rate of 99.86328906644786%. Run time of 5213.722060441971.
+
+Performed Jaccard Coefficient Link Prediction with a threshold value of 0.1.
+Analysed 173090033 possible connections. 172991717 correct predictions and 98316 incorrect predictions.
+Accuracy Rate of 99.94319950242311%. Run time of 6185.481151342392.
+
+Performed Within Inter Cluster Link Prediction with a threshold value of 0.5.
+Analysed 173090033 possible connections. 173072156 correct predictions and 17877 incorrect predictions.
+Accuracy Rate of 99.98967184898508%. Run time of 6229.905045032501.
+
+Performed Adamic Adar Link Prediction with a threshold value of 4.
+Analysed 173090033 possible connections. 173069637 correct predictions and 20396 incorrect predictions.
+Accuracy Rate of 99.98821653699726%. Run time of 5281.326367378235.
+
+Performed Jaccard Coefficient Link Prediction with a threshold value of 0.6.
+Analysed 173090033 possible connections. 173071853 correct predictions and 18180 incorrect predictions.
+Accuracy Rate of 99.98949679557806%. Run time of 6128.009481430054.
+
+Performed Within Inter Cluster Link Prediction with a threshold value of 0.4.
+Analysed 173090033 possible connections. 173071179 correct predictions and 18854 incorrect predictions.
+Accuracy Rate of 99.98910740285086%. Run time of 6124.936209201813.
+
+Performed Adamic Adar Link Prediction with a threshold value of 5.
+Analysed 173090033 possible connections. 173074029 correct predictions and 16004 incorrect predictions.
+Accuracy Rate of 99.9907539447982%. Run time of 5178.622176170349.
+
+Performed Jaccard Coefficient Link Prediction with a threshold value of 0.8.
+Analysed 173090033 possible connections. 173070833 correct predictions and 19200 incorrect predictions.
+Accuracy Rate of 99.98890750688112%. Run time of 6123.622826099396.
+
+Performed Within Inter Cluster Link Prediction with a threshold value of 0.25.
+Analysed 173090033 possible connections. 173065428 correct predictions and 24605 incorrect predictions.
+Accuracy Rate of 99.98578485452134%. Run time of 6332.571118116379.
+
+Performed Adamic Adar Link Prediction with a threshold value of 0.
+Analysed 173090033 possible connections. 169237730 correct predictions and 3852303 incorrect predictions.
+3871317 yes predictions of which 19263 were correct. 169218716 no predictions of which 169218467 were correct.
+Accuracy Rate of 97.77439351461675%. Run time of 5637.6904673576355.
+
+Performed Jaccard Coefficient Link Prediction with a threshold value of 0.
+Analysed 173090033 possible connections. 169237730 correct predictions and 3852303 incorrect predictions.
+3871317 yes predictions of which 19263 were correct. 169218716 no predictions of which 169218467 were correct.
+Accuracy Rate of 97.77439351461675%. Run time of 6940.13210272789.
+
+Performed Within Inter Cluster Link Prediction with a threshold value of 0.
+Analysed 173090033 possible connections. 169237730 correct predictions and 3852303 incorrect predictions.
+3871317 yes predictions of which 19263 were correct. 169218716 no predictions of which 169218467 were correct.
+Accuracy Rate of 97.77439351461675%. Run time of 6776.774298667908.
+
+Performed Adamic Adar Link Prediction with a threshold value of 6.
+Analysed 173090033 possible connections. 173074738 correct predictions and 15295 incorrect predictions.
+6257 yes predictions of which 5237 were correct. 173083776 no predictions of which 173069501 were correct.
+Accuracy Rate of 99.99116355821597%. Run time of 5214.841198682785.
+
+Performed Jaccard Coefficient Link Prediction with a threshold value of 0.55.
+Analysed 173090033 possible connections. 173071997 correct predictions and 18036 incorrect predictions.
+3520 yes predictions of which 2498 were correct. 173086513 no predictions of which 173069499 were correct.
+Accuracy Rate of 99.98957998927645%. Run time of 6217.039621591568.
+
+Performed Within Inter Cluster Link Prediction with a threshold value of 0.45.
+Analysed 173090033 possible connections. 173071239 correct predictions and 18794 incorrect predictions.
+6186 yes predictions of which 3452 were correct. 173083847 no predictions of which 173067787 were correct.
+Accuracy Rate of 99.98914206689186%. Run time of 6306.72635436058.
+
